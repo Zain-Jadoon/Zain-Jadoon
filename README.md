@@ -6,3 +6,4 @@
 - 💻 You can learn more about me at [my website](https://Zainisa.ninja)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Zain-Jadoon&show_icons=true&theme=dracula)
+![](https://komarev.com/ghpvc/?username=Zain-Jadoon)
