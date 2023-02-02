@@ -1,9 +1,6 @@
 ## Hey I'm Zain 👋
-
-- 🔭 I’m currently working on my portfolio website
-- 🌱 I’m currently interested in learning more about lower level programming
-- 💬 Ask me about GNU/Linux
-- 💻 You can learn more about me at [my website](https://Zainisa.ninja)
-
+- Young North Jersey Based Programmer
+- Interested in Programming, Linux, and Cyber Security
+- learn more about me [here](https://Zainisa.ninja)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Zain-Jadoon&show_icons=true&theme=dracula)
 ![](https://komarev.com/ghpvc/?username=Zain-Jadoon)
